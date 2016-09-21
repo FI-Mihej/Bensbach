@@ -1,0 +1,5 @@
+syntax: glob
+*.prof
+__pycache__
+**.upk
+.git
